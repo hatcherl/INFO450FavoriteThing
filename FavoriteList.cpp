@@ -94,8 +94,3 @@ void favoriteList::showList()
 		totalAlbums = i;
 	}
 }
-
-void favoriteList::deleteAlbum(int del)
-{
-
-}

@@ -13,7 +13,7 @@ int main()
 	favoriteList myAlbums;
 	do {
 		myAlbums.addAlbum();
-		cout << "Would you like to make another? Select Y/y to continue. Press any other character+Enter to finish." << endl;
+		cout << "Would you like to make another? Select Y/y to continue. Select any other character and then Enter to finish." << endl;
 		cin >> response;
 	} while (response == 'y' || response == 'Y');
 	//Calling on the showList function

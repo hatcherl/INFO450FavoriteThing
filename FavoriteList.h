@@ -17,5 +17,4 @@ public:
 	favoriteList();
 	void addAlbum();
 	void showList();
-	void deleteAlbum(int del);
 };
