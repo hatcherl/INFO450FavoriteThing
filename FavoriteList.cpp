@@ -95,7 +95,7 @@ void favoriteList::showList()
 	}
 }
 
-void favoriteList::deleteAlbum()
+void favoriteList::deleteAlbum(int del)
 {
 
 }
