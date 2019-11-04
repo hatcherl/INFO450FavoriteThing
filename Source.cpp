@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+
+	cout << "Hello! Please input in the info for your favorie album(s)!" << endl;
 	//response so the user can choose if they want to continue or not
 	char response;
 	//created a myAlbums list
